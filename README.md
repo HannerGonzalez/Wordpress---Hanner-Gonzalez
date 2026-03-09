@@ -16,3 +16,10 @@ Dentro de cada post encontraras la noticia del juego en cuestión pero un poco m
 
 <img src=/posts.png/>
 
+<img src=/poner otra captura/>
+
+## Plugins
+
+A esta pagina web le instale unos plugins básicos pero que le pueden dar mayor formalidad. variedad y más mejor funcionalidad, 
+
+
