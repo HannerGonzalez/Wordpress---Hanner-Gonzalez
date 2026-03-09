@@ -12,5 +12,7 @@ En este apartado encontraras las noticias más relevante del momento dentro de l
 
 ## Posts
 
-Dentro de cada post encontraras la noticia del juego en cuestión un poco más detallada.
+Dentro de cada post encontraras la noticia del juego en cuestión pero un poco más detallada.
+
+<img src=/Posts.png/>
 
