@@ -38,5 +38,5 @@ Funciona como un localizador el cuál muestra donde estan las surcursales de ori
 
 ## Enlace a la página web
 
-[Visita Google](http://192.168.236.221/)
+[Wordpress](http://192.168.236.221/)
 
