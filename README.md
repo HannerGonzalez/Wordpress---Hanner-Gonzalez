@@ -35,3 +35,8 @@ Traductor que permite ver la página web con un diferente idioma "Ingles"
 #### WP Go Maps (formerly WP Google Maps)
 
 Funciona como un localizador el cuál muestra donde estan las surcursales de origen de la página web en cuestión
+
+## Enlace a la página web
+
+[Visita Google](http://192.168.236.221/)
+
