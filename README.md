@@ -24,14 +24,14 @@ A esta pagina web le instale unos plugins básicos pero que le pueden dar mayor 
 
 <img src=/plugins.png/>
 
-## HT Floating Contact
+#### HT Floating Contact
 
 Son wigdets flotantes que funcionan para poder comunicarte con el creador d la página web
 
-## Polylang
+#### Polylang
 
 Traductor que permite ver la página web con un diferente idioma "Ingles"
 
-## WP Go Maps (formerly WP Google Maps)
+#### WP Go Maps (formerly WP Google Maps)
 
 Funciona como un localizador el cuál muestra donde estan las surcursales de origen de la página web en cuestión
