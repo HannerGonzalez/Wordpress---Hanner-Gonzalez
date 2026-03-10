@@ -22,5 +22,5 @@ Dentro de cada post encontraras la noticia del juego en cuestión pero un poco m
 
 A esta pagina web le instale unos plugins básicos pero que le pueden dar mayor formalidad. variedad y que tenga  mejor funcionalidad la página web
 
-<img src=/posts2.png/>
+<img src=/plugins.png/>
 
