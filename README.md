@@ -16,7 +16,7 @@ Dentro de cada post encontraras la noticia del juego en cuestión pero un poco m
 
 <img src=/posts.png/>
 
-<img src=/poner otra captura/>
+<img src=/posts2.png/>
 
 ## Plugins
 
